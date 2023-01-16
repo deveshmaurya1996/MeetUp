@@ -1,0 +1,57 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.home-heading {
+  font-size: 39px;
+  color: #334155;
+  font-family: 'roboto';
+}
+
+.home-info {
+  color: #475569;
+  font-size: 25px;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.register-button {
+  background-color: #3b82f6;
+  color: #ffffff;
+  padding: 3px;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  width: 80px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.home-image {
+  margin-top: 40px;
+  width: 40%;
+  margin-bottom: 140px;
+}
+
+.user-heading {
+  color: #2563eb;
+  font-size: 49px;
+  font-family: 'roboto';
+  margin: 0px;
+}
+
+.user-info {
+  color: #475569;
+  font-size: 25px;
+  font-weight: 500;
+  margin-bottom: 40px;
+}

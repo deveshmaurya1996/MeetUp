@@ -1,0 +1,13 @@
+.nav-bar {
+  width: 100%;
+}
+
+.logo {
+  width: 180px;
+}
+
+.logo-container {
+  width: 90%;
+  margin: auto;
+  padding: 30px;
+}
